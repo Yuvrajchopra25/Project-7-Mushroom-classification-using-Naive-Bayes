@@ -22,7 +22,7 @@ The data set we will be using contains 8124 instances of mushrooms with 22 featu
 - SkLearn
 
 ## Naive Bayes Classifier:
-A Naive Bayes classifier is a probabilistic machine learning model that’s used for classification task. The crux of the classifier is based on the Bayes theorem.
+A Naive Bayes classifier is a probabilistic machine learning model that’s used for classification task. The crux of the classifier is based on the Bayes theorem. Bayes’ Theorem finds the probability of an event occurring given the probability of another event that has already occurred. Bayes’ theorem is stated mathematically as the following equation:
 
 **Bayes Theorem:**
 
